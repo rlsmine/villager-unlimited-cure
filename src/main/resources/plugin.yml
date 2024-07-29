@@ -2,3 +2,4 @@ name: VillagerUnlimitedCure
 version: '${project.version}'
 main: br.com.rillis.villagerunlimitedcure.VillagerUnlimitedCure
 api-version: '1.21'
+depend: [NBTAPI]
